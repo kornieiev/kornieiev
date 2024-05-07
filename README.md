@@ -11,11 +11,21 @@
 <br>
 [Front-end (GitHub)](https://github.com/DeadMakar/PowerPulseTeamPoject)
 <br>
-[Back-End (GitHub)](https://github.com/DeadMakar/PowerPulseTeamPoject)
+[Back-End (GitHub)](https://github.com/kornieiev/power_pulse_back)
 <br>
-*My role - backend team lead.*
+*My role - backend team lead*
 
+<hr>
 
+**[CamperVan-Rent - link to App](https://kornieiev.github.io/camper/)**
+<br>
+![image](https://github.com/kornieiev/kornieiev/assets/108156304/98cc1d8f-b4db-4765-ac35-78410d429bd1)
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/camper)
+<br>
+Back-End (GitHub) - mockapi.io
+<br>
+*Independent test project*
 
 
 <!--
