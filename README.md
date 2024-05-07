@@ -8,6 +8,9 @@
 
 <a href="https://deadmakar.github.io/PowerPulseTeamPoject/" target="_blank">PowerPulseTeamPoject</a>
 
+[PowerPulseTeamPoject](https://deadmakar.github.io/PowerPulseTeamPoject/){:target="_blank"}
+
+
 <!--
 **kornieiev/kornieiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
