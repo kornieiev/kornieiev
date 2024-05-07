@@ -3,12 +3,12 @@
 ### Below is a list of educational or pet projects that I have developed."
 
 
+<hr>
 
 **[PowerPulseTeamPoject - link to App](https://deadmakar.github.io/PowerPulseTeamPoject/)**
-<hr>
-*[Front-end: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject)*
+[Front-end: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject)
 <br>
-*[Back-End: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject)*
+[Back-End: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject)
 
 
 
