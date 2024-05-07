@@ -6,6 +6,7 @@
 * [Front-end: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject){:target="_blank"} *
 * [Back-End: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject){:target="_blank"} *
 
+<a href="https://deadmakar.github.io/PowerPulseTeamPoject/" target="_blank">PowerPulseTeamPoject</a>
 
 <!--
 **kornieiev/kornieiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
