@@ -13,7 +13,7 @@
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/0f4bb313-f196-4ba1-a43f-b35dbdf418bf)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/5d666055-0ad4-4647-bd35-b65a2a56c113)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/39e722e8-a33c-4335-a4e2-0ad62fa236e7)
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/dfc1b255-b89c-4ad6-b441-d9a8ee4a8105)
+![image](https://github.com/kornieiev/kornieiev/assets/108156304/56a580ee-3735-4620-8227-61a168ed7197)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/eb549196-a2a0-4d3e-afaf-358f367ef924)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/c6f84e43-9fa6-4045-904b-ba554f4d9012)
@@ -21,6 +21,8 @@
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/fed442a7-67dd-4969-8ed1-933ebd697860)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/53400f81-6117-4084-9257-c8490859d269)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/3732d099-8fe1-410c-b194-77c60184aa83)
+![image](https://github.com/kornieiev/kornieiev/assets/108156304/199bdf2a-5931-4bd6-ae34-e72fb1922a3d)
+
 ...
 
 
