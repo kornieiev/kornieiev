@@ -2,6 +2,11 @@
 
 ### Below is a list of educational or pet projects that I have developed."
 
+** [PowerPulseTeamPoject](https://deadmakar.github.io/PowerPulseTeamPoject/) **
+* [Front-end: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject) *
+* [Back-End: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject) *
+
+
 <!--
 **kornieiev/kornieiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
