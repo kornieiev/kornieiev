@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Below is a list of educational or pet projects that I have developed."
+### Below is a list of educational or pet projects that I have developed."
 
 <!--
 **kornieiev/kornieiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
