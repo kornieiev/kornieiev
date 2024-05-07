@@ -7,9 +7,11 @@
 
 **[PowerPulseTeamPoject - link to App](https://deadmakar.github.io/PowerPulseTeamPoject/)**
 <br>
-[Front-end: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject)
+[Front-end (GitHub)](https://github.com/DeadMakar/PowerPulseTeamPoject)
 <br>
-[Back-End: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject)
+[Back-End (GitHub)](https://github.com/DeadMakar/PowerPulseTeamPoject)
+<br>
+*My role - backend team lead.*
 
 
 
