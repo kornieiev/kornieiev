@@ -3,13 +3,10 @@
 ### The technologies I've worked with: ###
 
 | ![image](https://github.com/kornieiev/kornieiev/assets/108156304/26e5e69c-8f6b-415c-8f5b-e9d7f94077a0)
- | ![image](https://github.com/kornieiev/kornieiev/assets/108156304/fda87206-4364-4afb-868d-b5a2fd639d2c)
- | ![image](https://github.com/kornieiev/kornieiev/assets/108156304/a75b7b40-2c23-46a9-ae82-f544bb821aaa)
- |
-|-------------|-------------|-------------|
-| Ячейка 1    | Ячейка 2    | Ячейка 3    |
-| Ячейка 4    | Ячейка 5    | Ячейка 6    |
-| Ячейка 7    | Ячейка 8    | Ячейка 9    |
+| ![image](https://github.com/kornieiev/kornieiev/assets/108156304/fda87206-4364-4afb-868d-b5a2fd639d2c)
+| ![image](https://github.com/kornieiev/kornieiev/assets/108156304/a75b7b40-2c23-46a9-ae82-f544bb821aaa)
+|
+
 
 
 ### Below is a list of educational or pet projects that I have developed."
