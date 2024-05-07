@@ -2,7 +2,7 @@
 
 ### Below is a list of educational or pet projects that I have developed."
 
-** [PowerPulseTeamPoject](https://deadmakar.github.io/PowerPulseTeamPoject/){:target="_blank"} **
+**[PowerPulseTeamPoject](https://deadmakar.github.io/PowerPulseTeamPoject/){:target="_blank"}**
 * [Front-end: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject){:target="_blank"} *
 * [Back-End: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject){:target="_blank"} *
 
