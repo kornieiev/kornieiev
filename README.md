@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### The technologies I've worked with: ###
+
+| Заголовок 1 | Заголовок 2 | Заголовок 3 |
+|-------------|-------------|-------------|
+| Ячейка 1    | Ячейка 2    | Ячейка 3    |
+| Ячейка 4    | Ячейка 5    | Ячейка 6    |
+| Ячейка 7    | Ячейка 8    | Ячейка 9    |
+
+
 ### Below is a list of educational or pet projects that I have developed."
 
 
@@ -57,7 +66,15 @@ Back-End (GitHub) - mockapi.io
 <br>
 *My role - Front-end team lead*
 
+<hr>
 
+**[Image-Finder - link to App](https://kornieiev.github.io/image-finder/)**
+<br>
+![image](https://github.com/kornieiev/kornieiev/assets/108156304/060e6df0-ea7c-477b-a454-fa83bcb0603d)
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/image-finder)
+<br>
+*Independent test project*
 
 
 
