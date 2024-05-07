@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
 ### Below is a list of educational or pet projects that I have developed."
 
-**[PowerPulseTeamPoject](https://deadmakar.github.io/PowerPulseTeamPoject/){:target="_blank"}**
-* [Front-end: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject){:target="_blank"} *
-* [Back-End: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject){:target="_blank"} *
-
-<a href="https://deadmakar.github.io/PowerPulseTeamPoject/" target="_blank">PowerPulseTeamPoject</a>
-<a href="https://deadmakar.github.io/PowerPulseTeamPoject/" target="_blank">PowerPulseTeamPoject</a>
 
 
-[PowerPulseTeamPoject](https://deadmakar.github.io/PowerPulseTeamPoject/){:target="_blank"}
+**[PowerPulseTeamPoject - link to App](https://deadmakar.github.io/PowerPulseTeamPoject/)**
+*[Front-end: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject)*
+*[Back-End: link to GitHub](https://github.com/DeadMakar/PowerPulseTeamPoject)*
+
+
 
 
 <!--
