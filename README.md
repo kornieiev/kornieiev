@@ -23,10 +23,9 @@
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/3732d099-8fe1-410c-b194-77c60184aa83)
    ... others
 
-
+<hr>
 
 ### Below is a list of educational or pet projects that I have developed."
-
 
 <hr>
 
