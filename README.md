@@ -13,7 +13,7 @@
 <br>
 [Back-End (GitHub)](https://github.com/kornieiev/power_pulse_back)
 <br>
-*My role - backend team lead*
+*My role - Back-end team lead*
 
 <hr>
 
@@ -26,6 +26,41 @@
 Back-End (GitHub) - mockapi.io
 <br>
 *Independent test project*
+
+<hr>
+
+**[MovieFinder-SPA - link to App](https://kornieiev.github.io/movieFinder-SPA/)**
+<br>
+![image](https://github.com/kornieiev/kornieiev/assets/108156304/342dc425-de7a-4fea-a5f7-f6d90b84d7da)
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/movieFinder-SPA)
+<br>
+*Independent test project*
+
+<hr>
+
+**[Phonebook - link to App](https://kornieiev.github.io/goit-react-hw-08-phonebook/)**
+<br>
+![image](https://github.com/kornieiev/kornieiev/assets/108156304/f29e0e37-a649-4ea2-b241-a795ed36466d)
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/goit-react-hw-08-phonebook)
+<br>
+*Independent test project*
+
+<hr>
+
+**[Phonebook - link to App](https://kornieiev.github.io/CodeBusters/)**
+<br>
+![image](https://github.com/kornieiev/kornieiev/assets/108156304/261b417d-8bad-4b91-abf1-2294be63991c)
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/CodeBusters)
+<br>
+*My role - Front-end team lead*
+
+
+
+
+
 
 
 <!--
