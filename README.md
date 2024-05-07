@@ -6,6 +6,7 @@
 <hr>
 
 **[PowerPulseTeamPoject - link to App](https://deadmakar.github.io/PowerPulseTeamPoject/)**
+<br>
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/8d613073-22ca-494b-b343-d0d0324de7d7)
 <br>
 [Front-end (GitHub)](https://github.com/DeadMakar/PowerPulseTeamPoject)
