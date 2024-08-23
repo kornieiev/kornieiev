@@ -3,6 +3,7 @@
 ### The technologies I've worked with: ###
 
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/26e5e69c-8f6b-415c-8f5b-e9d7f94077a0)
+![image]()
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/fda87206-4364-4afb-868d-b5a2fd639d2c)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/a75b7b40-2c23-46a9-ae82-f544bb821aaa)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/c7154f4b-4e19-4431-be2b-a92e8d78eac8)
