@@ -23,7 +23,7 @@
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/fed442a7-67dd-4969-8ed1-933ebd697860)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/cc7f2bff-5d4d-4aad-8861-f13cddedd4cf)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/3732d099-8fe1-410c-b194-77c60184aa83)
-   ... others
+   ...
 
 <hr>
 
