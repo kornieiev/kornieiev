@@ -29,6 +29,21 @@
 
 ### Below is a list of educational or pet projects that I have developed."
 
+
+**[SecureLocks - link to App](https://kornieiev.github.io/SLFront/)**
+<br>
+<img width="303" alt="image" src="https://github.com/user-attachments/assets/9f86c91c-6c3d-424b-a2a3-553972b173b8">
+<img width="303" alt="image" src="https://github.com/user-attachments/assets/54cd00a3-46f7-4ea3-be2d-3217b60a77e4">
+<img width="303" alt="image" src="https://github.com/user-attachments/assets/4cdceda6-3d05-43c9-b5ec-88cba9ef8016">
+<img width="303" alt="image" src="https://github.com/user-attachments/assets/3a80c612-688f-45d3-aee1-ec7cbc37f33e">
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/SLFront)
+<br>
+[Back-End (GitHub)](https://github.com/kornieiev/SLBeck)
+<br>
+*My role - Full-stack developer*
+
+
 **[PowerPulseTeamPoject - link to App](https://deadmakar.github.io/PowerPulseTeamPoject/)**
 <br>
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/8d613073-22ca-494b-b343-d0d0324de7d7)
