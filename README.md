@@ -32,10 +32,10 @@
 
 **[SecureLocks - link to App](https://kornieiev.github.io/SLFront/)**
 <br>
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/9f86c91c-6c3d-424b-a2a3-553972b173b8">
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/54cd00a3-46f7-4ea3-be2d-3217b60a77e4">
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/4cdceda6-3d05-43c9-b5ec-88cba9ef8016">
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/3a80c612-688f-45d3-aee1-ec7cbc37f33e">
+<img width="200" alt="example" src="https://github.com/user-attachments/assets/9f86c91c-6c3d-424b-a2a3-553972b173b8">
+<img width="200" alt="example" src="https://github.com/user-attachments/assets/54cd00a3-46f7-4ea3-be2d-3217b60a77e4">
+<img width="200" alt="example" src="https://github.com/user-attachments/assets/4cdceda6-3d05-43c9-b5ec-88cba9ef8016">
+<img width="200" alt="example" src="https://github.com/user-attachments/assets/3a80c612-688f-45d3-aee1-ec7cbc37f33e">
 <br>
 [Front-end (GitHub)](https://github.com/kornieiev/SLFront)
 <br>
@@ -43,6 +43,18 @@
 <br>
 *My role - Full-stack developer*
 
+<hr>
+
+**[FlagSearch - link to App](https://kornieiev.github.io/spa-countries-vite/)**
+<br>
+<img width="300" alt="example" src="https://github.com/user-attachments/assets/1f580cbb-7af0-4352-b8b3-852d4e99e4be">
+<img width="300" alt="example" src="https://github.com/user-attachments/assets/96274ec3-fe4c-4090-b20f-ca644893e442">
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/spa-countries-vite)
+<br>
+*My role - Front-end developer*
+
+<hr>
 
 **[PowerPulseTeamPoject - link to App](https://deadmakar.github.io/PowerPulseTeamPoject/)**
 <br>
