@@ -27,7 +27,7 @@
 
 <hr>
 
-### Below is a list of educational or pet projects that I have developed."
+### Below is a list of projects that I have developed."
 
 
 **[Smart User Table - link to App](https://kornieiev.github.io/smart-user-table/)**
