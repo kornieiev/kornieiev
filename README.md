@@ -30,6 +30,18 @@
 ### Below is a list of educational or pet projects that I have developed."
 
 
+**[Smart User Table - link to App](https://kornieiev.github.io/smart-user-table/)**
+
+<br>
+<img width="400" alt="example" src="https://github.com/user-attachments/assets/5aba6ab2-6825-4c44-9c19-885e84d8b235">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/83ab195f-7c8f-47a0-885c-4e6dcbd1e05d">
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/smart-user-table)
+<br>
+*My role - Front-end developer*
+
+<hr>
+
 **[SecureLocks - link to App](https://kornieiev.github.io/SLFront/)**
 <br>
 <img width="200" alt="example" src="https://github.com/user-attachments/assets/9f86c91c-6c3d-424b-a2a3-553972b173b8">
