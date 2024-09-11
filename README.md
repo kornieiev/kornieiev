@@ -31,7 +31,6 @@
 
 
 **[Smart User Table - link to App](https://kornieiev.github.io/smart-user-table/)**
-
 <br>
 <img width="400" alt="example" src="https://github.com/user-attachments/assets/5aba6ab2-6825-4c44-9c19-885e84d8b235">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/83ab195f-7c8f-47a0-885c-4e6dcbd1e05d">
