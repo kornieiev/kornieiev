@@ -15,6 +15,8 @@
 <img height="50" alt="render logo" src="https://github.com/user-attachments/assets/bf675e68-270a-4961-8977-8773e1f632fa">
 <img height="50" alt="axios logo" src="https://github.com/user-attachments/assets/19269517-3fb3-4d16-b2ff-b3915c7357c2">
 <img height="50" alt="styled-components logo" src="https://github.com/user-attachments/assets/f23fbb2a-b8a2-466f-9195-22a03a79345a">
+<img height="50" alt="redux-persist logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c">
+
 
 
 
@@ -22,8 +24,7 @@
 
 <hr>
 
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/56a580ee-3735-4620-8227-61a168ed7197)
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c)
+![image]()
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/eb549196-a2a0-4d3e-afaf-358f367ef924)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/c6f84e43-9fa6-4045-904b-ba554f4d9012)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/7c1d5c15-ab4c-43a1-b4f4-f2ede4a0b8eb)
