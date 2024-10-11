@@ -14,14 +14,14 @@
 <img height="40" alt="css logo" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
 <img height="40" alt="styled-components logo" src="https://github.com/user-attachments/assets/f23fbb2a-b8a2-466f-9195-22a03a79345a">
 <img height="40" alt="css-modules logo" src="https://github.com/user-attachments/assets/f67bb1db-99ed-4914-8b43-ecb25aa07b79">
-<hr>
+<br>
 <img height="40" alt="node-js logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/69ae42fe-e6a8-48ce-8c98-678dff86b645">
 <img height="40" alt="express-js logo" src="https://github.com/user-attachments/assets/1993eae5-fc08-4b42-bd48-0e5ddd14d753">
 <img height="40" alt="mongoDb logo" src="https://github.com/user-attachments/assets/7d1a39b5-679e-4d0a-8917-3d9533579381">
 <img height="40" alt="mongoose logo" src="https://github.com/user-attachments/assets/8af41c3b-2c36-4b36-ac22-c2d249b50155">
 <img height="40" alt="render logo" src="https://github.com/user-attachments/assets/bf675e68-270a-4961-8977-8773e1f632fa">
 <img height="40" alt="swagger logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/c6f84e43-9fa6-4045-904b-ba554f4d9012">
-<hr>
+<br>
 <img height="40" alt="git-hub logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/eb549196-a2a0-4d3e-afaf-358f367ef924">
 <img height="40" alt="git-lab" src="https://github.com/user-attachments/assets/da7a1d7b-52d6-435d-9b8b-2f4e0cecd0e3">
 <img height="40" alt="visul-studio-code logo" src="https://github.com/user-attachments/assets/c909d7e3-44bc-4e8c-86db-e349f1ffeb56">
@@ -32,7 +32,7 @@
 <img height="40" alt="firebase logo" src="https://github.com/user-attachments/assets/08e8fec1-7fec-4b91-acd1-bfad81e06724">
    etc.
 
-<br>
+<hr>
 
 ### Below is a list of projects that I have developed:
 
