@@ -30,6 +30,7 @@
 <img height="40" alt="figma logo" src="https://github.com/user-attachments/assets/fa938df5-11c1-40d6-ac75-5e975254d921">
 <img height="40" alt="amazon-web-services logo" src="https://github.com/user-attachments/assets/e59005d0-fbf8-406f-a63a-22d745bb9d25">
 <img height="40" alt="firebase logo" src="https://github.com/user-attachments/assets/08e8fec1-7fec-4b91-acd1-bfad81e06724">
+<br>
    etc.
 
 <hr>
