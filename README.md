@@ -12,16 +12,11 @@
 <img height="50" alt="express-js" src="https://github.com/user-attachments/assets/1993eae5-fc08-4b42-bd48-0e5ddd14d753">
 <img height="50" alt="mongoDb" src="https://github.com/user-attachments/assets/7d1a39b5-679e-4d0a-8917-3d9533579381">
 <img height="50" alt="mongoose" src="https://github.com/user-attachments/assets/8af41c3b-2c36-4b36-ac22-c2d249b50155">
+<img height="50" alt="render" src="https://github.com/user-attachments/assets/bf675e68-270a-4961-8977-8773e1f632fa">
+
 
 
 <hr>
-
-
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/766b8146-5d78-452d-94c4-4a99c13577ab)
-
-
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/5d666055-0ad4-4647-bd35-b65a2a56c113)
-<br>
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/39e722e8-a33c-4335-a4e2-0ad62fa236e7)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/56a580ee-3735-4620-8227-61a168ed7197)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c)
