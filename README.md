@@ -3,6 +3,8 @@
 ### The technologies I've worked with: ###
 
 <img heigth="40" alt="next.js" src="https://github.com/user-attachments/assets/461163bb-2aff-40c8-902d-bcd325586990">
+<img width="40" alt="html-5" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
+
 
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/26e5e69c-8f6b-415c-8f5b-e9d7f94077a0)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/fda87206-4364-4afb-868d-b5a2fd639d2c)
