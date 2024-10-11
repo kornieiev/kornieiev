@@ -3,6 +3,7 @@
 ### The technologies I've worked with: ###
 
 <img height="50" alt="next.js logo" src="https://github.com/user-attachments/assets/829e8c08-724f-4ae8-bbee-55c1f067c0c1">
+<img height="50" alt="java-script logo" src="https://github.com/user-attachments/assets/7e325a14-2bbd-45e7-9e7b-d65987468270">
 <img height="50" alt="html-5 logo" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
 <img height="50" alt="css logo" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
 <img height="50" alt="react logo" src="https://github.com/user-attachments/assets/dde1bb38-a1f4-4a04-ae8d-bc35ef810022">
