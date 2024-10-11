@@ -41,6 +41,18 @@
 ### Below is a list of projects that I have developed:
 <hr>
 
+**[News - link to App](https://news-0qds.onrender.com/)**
+<br>
+<img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/e5040aee-dc9c-4d0d-9a81-b66ea214b224">
+<img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/3a00cdf8-fba5-4b99-b9a5-a475d439e0e6">
+<img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/5807b3d0-a52c-4bdc-8f88-01670e61c6c7">
+
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/news)
+<br>
+*My role - Front-end developer*
+
+<hr>
 
 **[Foodies-project - link to App](https://foodies-project.onrender.com/)**
 <br>
