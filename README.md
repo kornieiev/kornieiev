@@ -2,9 +2,9 @@
 
 ### The technologies I've worked with: ###
 
-<img heigth="40" alt="next.js" src="https://github.com/user-attachments/assets/461163bb-2aff-40c8-902d-bcd325586990">
-<img heigth="40" alt="html-5" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
-<img heigth="40" alt="css" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
+<img height="40" alt="next.js" src="https://github.com/user-attachments/assets/461163bb-2aff-40c8-902d-bcd325586990">
+<img height="40" alt="html-5" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
+<img height="40" alt="css" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
 
 
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/26e5e69c-8f6b-415c-8f5b-e9d7f94077a0)
