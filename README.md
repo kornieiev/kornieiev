@@ -2,14 +2,16 @@
 
 ### The technologies I've worked with: ###
 
-<img height="40" alt="java-script logo" src="https://github.com/user-attachments/assets/7e325a14-2bbd-45e7-9e7b-d65987468270">
-<img height="40" alt="next.js logo" src="https://github.com/user-attachments/assets/829e8c08-724f-4ae8-bbee-55c1f067c0c1">
 <img height="40" alt="html-5 logo" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
-<img height="40" alt="type-script logo" src="https://github.com/user-attachments/assets/fa6f8793-7930-4ed3-9e7c-a5bb770b6159">
+<img height="40" alt="java-script logo" src="https://github.com/user-attachments/assets/7e325a14-2bbd-45e7-9e7b-d65987468270">
 <img height="40" alt="react logo" src="https://github.com/user-attachments/assets/dde1bb38-a1f4-4a04-ae8d-bc35ef810022">
 <img height="40" alt="redux logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/87abbb31-b25e-4a1e-aeb4-dc7b28870c28">
 <img height="40" alt="redux-persist logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c">
+<img height="40" alt="next.js logo" src="https://github.com/user-attachments/assets/829e8c08-724f-4ae8-bbee-55c1f067c0c1">
+<img height="40" alt="type-script logo" src="https://github.com/user-attachments/assets/fa6f8793-7930-4ed3-9e7c-a5bb770b6159">
 <img height="40" alt="axios logo" src="https://github.com/user-attachments/assets/19269517-3fb3-4d16-b2ff-b3915c7357c2">
+<img height="40" alt="formik logo" src="https://github.com/user-attachments/assets/cc0e8127-0747-4a40-9ebf-014f9bc26578">
+
 <br>
 <img height="40" alt="css logo" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
 <img height="40" alt="styled-components logo" src="https://github.com/user-attachments/assets/f23fbb2a-b8a2-466f-9195-22a03a79345a">
