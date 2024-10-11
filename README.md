@@ -5,6 +5,8 @@
 <img height="50" alt="next.js" src="https://github.com/user-attachments/assets/829e8c08-724f-4ae8-bbee-55c1f067c0c1">
 <img height="50" alt="html-5" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
 <img height="50" alt="css" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
+<img height="50" alt="react" src="https://github.com/user-attachments/assets/dde1bb38-a1f4-4a04-ae8d-bc35ef810022">
+
 
 
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/26e5e69c-8f6b-415c-8f5b-e9d7f94077a0)
