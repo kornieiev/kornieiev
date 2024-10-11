@@ -10,22 +10,12 @@
 <img height="50" alt="redux" src="https://github.com/kornieiev/kornieiev/assets/108156304/87abbb31-b25e-4a1e-aeb4-dc7b28870c28">
 <img height="50" alt="node-js" src="https://github.com/kornieiev/kornieiev/assets/108156304/69ae42fe-e6a8-48ce-8c98-678dff86b645">
 <img height="50" alt="express-js" src="https://github.com/user-attachments/assets/1993eae5-fc08-4b42-bd48-0e5ddd14d753">
-<img height="50" alt="mongoDb" src="https://github.com/kornieiev/kornieiev/assets/108156304/812d9e5f-ff64-4db7-87a7-1ef8604cb6b1">
+<img height="50" alt="mongoDb" src="https://github.com/user-attachments/assets/7d1a39b5-679e-4d0a-8917-3d9533579381">
 <img height="50" alt="mongoose" src="https://github.com/user-attachments/assets/8af41c3b-2c36-4b36-ac22-c2d249b50155">
 
 
-
 <hr>
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/812d9e5f-ff64-4db7-87a7-1ef8604cb6b1)
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/0f4bb313-f196-4ba1-a43f-b35dbdf418bf)
 
-
-
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/26e5e69c-8f6b-415c-8f5b-e9d7f94077a0)
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/fda87206-4364-4afb-868d-b5a2fd639d2c)
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/a75b7b40-2c23-46a9-ae82-f544bb821aaa)
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/c7154f4b-4e19-4431-be2b-a92e8d78eac8)
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/1c009f02-fc4b-45f6-8556-bc4b5d9ed39d)
 
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/766b8146-5d78-452d-94c4-4a99c13577ab)
 
