@@ -2,23 +2,26 @@
 
 ### The technologies I've worked with: ###
 
-<img height="50" alt="next.js" src="https://github.com/user-attachments/assets/829e8c08-724f-4ae8-bbee-55c1f067c0c1">
-<img height="50" alt="html-5" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
-<img height="50" alt="css" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
-<img height="50" alt="react" src="https://github.com/user-attachments/assets/dde1bb38-a1f4-4a04-ae8d-bc35ef810022">
-<img height="50" alt="type-script" src="https://github.com/user-attachments/assets/fa6f8793-7930-4ed3-9e7c-a5bb770b6159">
-<img height="50" alt="redux" src="https://github.com/kornieiev/kornieiev/assets/108156304/87abbb31-b25e-4a1e-aeb4-dc7b28870c28">
-<img height="50" alt="node-js" src="https://github.com/kornieiev/kornieiev/assets/108156304/69ae42fe-e6a8-48ce-8c98-678dff86b645">
-<img height="50" alt="express-js" src="https://github.com/user-attachments/assets/1993eae5-fc08-4b42-bd48-0e5ddd14d753">
-<img height="50" alt="mongoDb" src="https://github.com/user-attachments/assets/7d1a39b5-679e-4d0a-8917-3d9533579381">
-<img height="50" alt="mongoose" src="https://github.com/user-attachments/assets/8af41c3b-2c36-4b36-ac22-c2d249b50155">
-<img height="50" alt="render" src="https://github.com/user-attachments/assets/bf675e68-270a-4961-8977-8773e1f632fa">
+<img height="50" alt="next.js logo" src="https://github.com/user-attachments/assets/829e8c08-724f-4ae8-bbee-55c1f067c0c1">
+<img height="50" alt="html-5 logo" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
+<img height="50" alt="css logo" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
+<img height="50" alt="react logo" src="https://github.com/user-attachments/assets/dde1bb38-a1f4-4a04-ae8d-bc35ef810022">
+<img height="50" alt="type-script logo" src="https://github.com/user-attachments/assets/fa6f8793-7930-4ed3-9e7c-a5bb770b6159">
+<img height="50" alt="redux logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/87abbb31-b25e-4a1e-aeb4-dc7b28870c28">
+<img height="50" alt="node-js logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/69ae42fe-e6a8-48ce-8c98-678dff86b645">
+<img height="50" alt="express-js logo" src="https://github.com/user-attachments/assets/1993eae5-fc08-4b42-bd48-0e5ddd14d753">
+<img height="50" alt="mongoDb logo" src="https://github.com/user-attachments/assets/7d1a39b5-679e-4d0a-8917-3d9533579381">
+<img height="50" alt="mongoose logo" src="https://github.com/user-attachments/assets/8af41c3b-2c36-4b36-ac22-c2d249b50155">
+<img height="50" alt="render logo" src="https://github.com/user-attachments/assets/bf675e68-270a-4961-8977-8773e1f632fa">
+<img height="50" alt="axios logo" src="https://github.com/user-attachments/assets/19269517-3fb3-4d16-b2ff-b3915c7357c2">
+<img height="50" alt="styled-components logo" src="https://github.com/user-attachments/assets/f23fbb2a-b8a2-466f-9195-22a03a79345a">
+
+
 
 
 
 <hr>
 
-![image](https://github.com/kornieiev/kornieiev/assets/108156304/39e722e8-a33c-4335-a4e2-0ad62fa236e7)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/56a580ee-3735-4620-8227-61a168ed7197)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c)
 ![image](https://github.com/kornieiev/kornieiev/assets/108156304/eb549196-a2a0-4d3e-afaf-358f367ef924)
