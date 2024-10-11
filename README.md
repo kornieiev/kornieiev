@@ -10,7 +10,7 @@
 <img height="40" alt="redux logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/87abbb31-b25e-4a1e-aeb4-dc7b28870c28">
 <img height="40" alt="redux-persist logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c">
 <img height="40" alt="axios logo" src="https://github.com/user-attachments/assets/19269517-3fb3-4d16-b2ff-b3915c7357c2">
-<hr>
+<br>
 <img height="40" alt="css logo" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
 <img height="40" alt="styled-components logo" src="https://github.com/user-attachments/assets/f23fbb2a-b8a2-466f-9195-22a03a79345a">
 <img height="40" alt="css-modules logo" src="https://github.com/user-attachments/assets/f67bb1db-99ed-4914-8b43-ecb25aa07b79">
