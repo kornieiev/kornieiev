@@ -35,6 +35,7 @@
 
 
 <hr>
+
 ### Below is a list of projects that I have developed:
 <hr>
 
