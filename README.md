@@ -33,9 +33,11 @@
 <br>
    etc.
 
+
+<hr>
+### Below is a list of projects that I have developed:
 <hr>
 
-### Below is a list of projects that I have developed:
 
 **[Foodies-project - link to App](https://foodies-project.onrender.com/)**
 <br>
