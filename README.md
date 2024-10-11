@@ -2,41 +2,34 @@
 
 ### The technologies I've worked with: ###
 
-<img height="50" alt="java-script logo" src="https://github.com/user-attachments/assets/7e325a14-2bbd-45e7-9e7b-d65987468270">
-<img height="50" alt="next.js logo" src="https://github.com/user-attachments/assets/829e8c08-724f-4ae8-bbee-55c1f067c0c1">
-<img height="50" alt="html-5 logo" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
-<img height="50" alt="type-script logo" src="https://github.com/user-attachments/assets/fa6f8793-7930-4ed3-9e7c-a5bb770b6159">
-<img height="50" alt="react logo" src="https://github.com/user-attachments/assets/dde1bb38-a1f4-4a04-ae8d-bc35ef810022">
-<img height="50" alt="redux logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/87abbb31-b25e-4a1e-aeb4-dc7b28870c28">
-<img height="50" alt="redux-persist logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c">
-<img height="50" alt="axios logo" src="https://github.com/user-attachments/assets/19269517-3fb3-4d16-b2ff-b3915c7357c2">
-
+<img height="40" alt="java-script logo" src="https://github.com/user-attachments/assets/7e325a14-2bbd-45e7-9e7b-d65987468270">
+<img height="40" alt="next.js logo" src="https://github.com/user-attachments/assets/829e8c08-724f-4ae8-bbee-55c1f067c0c1">
+<img height="40" alt="html-5 logo" src="https://github.com/user-attachments/assets/84c03431-2a3d-4fe3-a850-ada2eea019c9">
+<img height="40" alt="type-script logo" src="https://github.com/user-attachments/assets/fa6f8793-7930-4ed3-9e7c-a5bb770b6159">
+<img height="40" alt="react logo" src="https://github.com/user-attachments/assets/dde1bb38-a1f4-4a04-ae8d-bc35ef810022">
+<img height="40" alt="redux logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/87abbb31-b25e-4a1e-aeb4-dc7b28870c28">
+<img height="40" alt="redux-persist logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/47b5df18-7976-43ce-ac5e-1610434c507c">
+<img height="40" alt="axios logo" src="https://github.com/user-attachments/assets/19269517-3fb3-4d16-b2ff-b3915c7357c2">
 <hr>
-
-<img height="50" alt="css logo" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
-<img height="50" alt="styled-components logo" src="https://github.com/user-attachments/assets/f23fbb2a-b8a2-466f-9195-22a03a79345a">
-<img height="50" alt="css-modules logo" src="https://github.com/user-attachments/assets/f67bb1db-99ed-4914-8b43-ecb25aa07b79">
-
+<img height="40" alt="css logo" src="https://github.com/user-attachments/assets/0fe79da4-5fe6-472f-9006-47238714ad84">
+<img height="40" alt="styled-components logo" src="https://github.com/user-attachments/assets/f23fbb2a-b8a2-466f-9195-22a03a79345a">
+<img height="40" alt="css-modules logo" src="https://github.com/user-attachments/assets/f67bb1db-99ed-4914-8b43-ecb25aa07b79">
 <hr>
-
-<img height="50" alt="node-js logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/69ae42fe-e6a8-48ce-8c98-678dff86b645">
-<img height="50" alt="express-js logo" src="https://github.com/user-attachments/assets/1993eae5-fc08-4b42-bd48-0e5ddd14d753">
-<img height="50" alt="mongoDb logo" src="https://github.com/user-attachments/assets/7d1a39b5-679e-4d0a-8917-3d9533579381">
-<img height="50" alt="mongoose logo" src="https://github.com/user-attachments/assets/8af41c3b-2c36-4b36-ac22-c2d249b50155">
-<img height="50" alt="render logo" src="https://github.com/user-attachments/assets/bf675e68-270a-4961-8977-8773e1f632fa">
-<img height="50" alt="swagger logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/c6f84e43-9fa6-4045-904b-ba554f4d9012">
-
+<img height="40" alt="node-js logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/69ae42fe-e6a8-48ce-8c98-678dff86b645">
+<img height="40" alt="express-js logo" src="https://github.com/user-attachments/assets/1993eae5-fc08-4b42-bd48-0e5ddd14d753">
+<img height="40" alt="mongoDb logo" src="https://github.com/user-attachments/assets/7d1a39b5-679e-4d0a-8917-3d9533579381">
+<img height="40" alt="mongoose logo" src="https://github.com/user-attachments/assets/8af41c3b-2c36-4b36-ac22-c2d249b50155">
+<img height="40" alt="render logo" src="https://github.com/user-attachments/assets/bf675e68-270a-4961-8977-8773e1f632fa">
+<img height="40" alt="swagger logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/c6f84e43-9fa6-4045-904b-ba554f4d9012">
 <hr>
-
-<img height="50" alt="git-hub logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/eb549196-a2a0-4d3e-afaf-358f367ef924">
-<img height="50" alt="git-lab" src="https://github.com/user-attachments/assets/da7a1d7b-52d6-435d-9b8b-2f4e0cecd0e3">
-<img height="50" alt="visul-studio-code logo" src="https://github.com/user-attachments/assets/c909d7e3-44bc-4e8c-86db-e349f1ffeb56">
-<img height="50" alt="vite logo" src="https://github.com/user-attachments/assets/32cc6b76-a5fc-49b2-985d-17e384db851f">
-<img height="50" alt="web-pack logo" src="https://github.com/user-attachments/assets/4e16aa10-70ad-4987-92d4-97106e614446">
-<img height="50" alt="figma logo" src="https://github.com/user-attachments/assets/fa938df5-11c1-40d6-ac75-5e975254d921">
-<img height="50" alt="amazon-web-services logo" src="https://github.com/user-attachments/assets/e59005d0-fbf8-406f-a63a-22d745bb9d25">
-<img height="50" alt="firebase logo" src="https://github.com/user-attachments/assets/08e8fec1-7fec-4b91-acd1-bfad81e06724">
-
+<img height="40" alt="git-hub logo" src="https://github.com/kornieiev/kornieiev/assets/108156304/eb549196-a2a0-4d3e-afaf-358f367ef924">
+<img height="40" alt="git-lab" src="https://github.com/user-attachments/assets/da7a1d7b-52d6-435d-9b8b-2f4e0cecd0e3">
+<img height="40" alt="visul-studio-code logo" src="https://github.com/user-attachments/assets/c909d7e3-44bc-4e8c-86db-e349f1ffeb56">
+<img height="40" alt="vite logo" src="https://github.com/user-attachments/assets/32cc6b76-a5fc-49b2-985d-17e384db851f">
+<img height="40" alt="web-pack logo" src="https://github.com/user-attachments/assets/4e16aa10-70ad-4987-92d4-97106e614446">
+<img height="40" alt="figma logo" src="https://github.com/user-attachments/assets/fa938df5-11c1-40d6-ac75-5e975254d921">
+<img height="40" alt="amazon-web-services logo" src="https://github.com/user-attachments/assets/e59005d0-fbf8-406f-a63a-22d745bb9d25">
+<img height="40" alt="firebase logo" src="https://github.com/user-attachments/assets/08e8fec1-7fec-4b91-acd1-bfad81e06724">
    etc.
 
 
