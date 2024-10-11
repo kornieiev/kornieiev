@@ -29,6 +29,18 @@
 
 ### Below is a list of projects that I have developed:
 
+**[Foodies-project - link to App](https://foodies-project.onrender.com/)**
+<br>
+<img width="400" alt="example" src="https://github.com/user-attachments/assets/0c55906b-7900-494b-b46b-0dd956baeecf">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8a0decb7-417d-4580-9809-21f9f46927da">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6d3e3d01-abc1-485b-8c88-1fdd3d8d9b92">
+
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/foodies-project)
+<br>
+*My role - Front-end developer*
+
+<hr>
 
 **[Smart User Table - link to App](https://kornieiev.github.io/smart-user-table/)**
 <br>
