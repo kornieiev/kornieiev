@@ -31,8 +31,8 @@
 
 **[Foodies-project - link to App](https://foodies-project.onrender.com/)**
 <br>
-<img width="300" alt="example" src="https://github.com/user-attachments/assets/0c55906b-7900-494b-b46b-0dd956baeecf">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/8a0decb7-417d-4580-9809-21f9f46927da">
+<img width="300" alt="example" src="https://github.com/user-attachments/assets/b686ecf6-1816-41e6-8adb-d78dc45112b3">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1d3aba21-0468-4621-97c5-629655a1591c">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/6d3e3d01-abc1-485b-8c88-1fdd3d8d9b92">
 
 <br>
