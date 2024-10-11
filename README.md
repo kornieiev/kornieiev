@@ -32,12 +32,7 @@
 <img height="40" alt="firebase logo" src="https://github.com/user-attachments/assets/08e8fec1-7fec-4b91-acd1-bfad81e06724">
    etc.
 
-
-<hr>
-
-<hr>
-
-<hr>
+<br>
 
 ### Below is a list of projects that I have developed:
 
