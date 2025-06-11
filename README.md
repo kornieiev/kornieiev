@@ -44,6 +44,7 @@
 
 
 **[My Calendar - link to App](https://kornieiev.github.io/calendar/)**
+<br>
 <img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/a4695d99-e632-4d95-9695-670da98d031d">
 <br>
 [Front-end (GitHub)](https://github.com/kornieiev/calendar)
