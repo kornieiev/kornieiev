@@ -41,6 +41,16 @@
 ### Below is a list of projects that I have developed:
 <hr>
 
+
+
+**[My Calendar - link to App](https://kornieiev.github.io/calendar/)**
+<img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/a4695d99-e632-4d95-9695-670da98d031d">
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/calendar)
+<br>
+*My role - Front-end developer*
+
+
 **[News - link to App](https://news-0qds.onrender.com/)**
 <br>
 <img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/e5040aee-dc9c-4d0d-9a81-b66ea214b224">
