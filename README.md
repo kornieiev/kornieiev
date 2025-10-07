@@ -45,7 +45,7 @@
 **[Task Tracker - link to App](https://task-tracker-five-ruddy.vercel.app/)**
 
 <br>
-<img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/fa5afc64-dbd9-4597-961a-f15c9fc8ea2f" />
+<img width="400" alt="screenshot of the project" src="https://github.com/user-attachments/assets/fa5afc64-dbd9-4597-961a-f15c9fc8ea2f" />
 <br>
 [Front-end (GitHub)](https://github.com/kornieiev/task-tracker)
 <br>
@@ -62,7 +62,7 @@ A modern, full-stack task management application built with Next.js 15, tRPC, Su
 
 **[My Calendar - link to App](https://kornieiev.github.io/calendar/)**
 <br>
-<img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/a4695d99-e632-4d95-9695-670da98d031d">
+<img width="400" alt="screenshot of the project" src="https://github.com/user-attachments/assets/a4695d99-e632-4d95-9695-670da98d031d">
 <br>
 [Front-end (GitHub)](https://github.com/kornieiev/calendar)
 <br>
