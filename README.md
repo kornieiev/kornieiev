@@ -42,6 +42,22 @@
 <hr>
 
 
+**[Task Tracker - link to App](https://github.com/kornieiev/task-tracker)**
+<br>
+<img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/fa5afc64-dbd9-4597-961a-f15c9fc8ea2f" />
+<br>
+[Front-end (GitHub)](https://github.com/kornieiev/task-tracker)
+<br>
+A modern, full-stack task management application built with Next.js 15, tRPC, Supabase, and NextAuth.
+
+![Task Tracker](https://img.shields.io/badge/Next.js-15.5.4-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
+![tRPC](https://img.shields.io/badge/tRPC-11.0-2596be?style=flat-square&logo=trpc)
+![Supabase](https://img.shields.io/badge/Supabase-2.0-3ecf8e?style=flat-square&logo=supabase)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?style=flat-square&logo=tailwind-css)
+<br>
+*My role - Full-stack developer*
+
 
 **[My Calendar - link to App](https://kornieiev.github.io/calendar/)**
 <br>
