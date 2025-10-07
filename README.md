@@ -70,7 +70,6 @@ A modern, full-stack task management application built with Next.js 15, tRPC, Su
 
 
 **[Tic-Tac-Toe - link to App](https://kornieiev.github.io/tic-tac-toe/)**
-
 <br>
 <img width="400" alt="screenshot of the project" src="https://github.com/user-attachments/assets/4583f5a0-3928-48a0-8a0a-0ecbd97df023" />
 <br>
