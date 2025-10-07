@@ -42,7 +42,8 @@
 <hr>
 
 
-**[Task Tracker - link to App](https://github.com/kornieiev/task-tracker)**
+**[Task Tracker - link to App](https://task-tracker-five-ruddy.vercel.app/)**
+
 <br>
 <img width="300" alt="screenshot of the project" src="https://github.com/user-attachments/assets/fa5afc64-dbd9-4597-961a-f15c9fc8ea2f" />
 <br>
