@@ -48,9 +48,7 @@
 <br>
 [Front-end (GitHub)](https://github.com/kornieiev/task-tracker)
 <br>
-<br>
 A modern, full-stack task management application built with Next.js 15, tRPC, Supabase, and NextAuth.
-
 ![Task Tracker](https://img.shields.io/badge/Next.js-15.5.4-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 ![tRPC](https://img.shields.io/badge/tRPC-11.0-2596be?style=flat-square&logo=trpc)
