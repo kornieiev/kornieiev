@@ -43,7 +43,6 @@
 
 
 **[Task Tracker - link to App](https://task-tracker-five-ruddy.vercel.app/)**
-
 <br>
 <img width="400" alt="screenshot of the project" src="https://github.com/user-attachments/assets/fa5afc64-dbd9-4597-961a-f15c9fc8ea2f" />
 <br>
